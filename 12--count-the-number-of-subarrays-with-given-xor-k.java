@@ -1,5 +1,7 @@
-/* 12# Count the number of subarrays with given xor K
-Problem Statement: Given an array of integers A and an integer B. Find the total number of subarrays having bitwise XOR of all elements equal to B.
+/* 
+12# Count the number of subarrays with given xor K
+Problem Statement: Given an array of integers A and an integer B. 
+Find the total number of subarrays having bitwise XOR of all elements equal to B.
 
 Examples:
 
